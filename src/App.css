@@ -51,6 +51,7 @@
   
   .task-list {
     margin-top: 20px;
+    padding: ;
   }
   
   .todo-item {
@@ -70,6 +71,7 @@
   
   button {
     margin-left: 5px;
+    
   }
   
   button:hover {
@@ -87,4 +89,9 @@
       margin-bottom: 5px;
     }
   }
-  
+.btn{
+  /* padding: 10 5 5 20px; */
+  margin-top: 10px;
+  display: grid;
+  gap: 10px;
+}

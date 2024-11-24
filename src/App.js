@@ -94,12 +94,13 @@ function App() {
         onChange={(e) => setTaskText(e.target.value)}
         placeholder={isEditing ? "Edit your task" : "Add a new task"}
       />
+      
       <button onClick={isEditing ? updateTask : addTask}>
         {isEditing ? 'Update' : 'Add'}
       </button>
-      <div className="task-list">
+      <div className="task-list " >
         {tasks.map((task) => (
-          <TodoItem
+          <TodoItem 
             key={task.id}
             task={task}
             deleteTask={deleteTask}

@@ -9,8 +9,10 @@ function TodoItem({ task, deleteTask, toggleCompleted, editTask }) {
         onChange={() => toggleCompleted(task.id)}
       />
       <span>{task.text}</span>
+      <div className='btn'>
       <button onClick={() => editTask(task.id, task.text)}>Edit</button>
       <button onClick={() => deleteTask(task.id)}>Delete</button>
+      </div>
     </div>
   );
 }
