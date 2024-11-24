@@ -273,7 +273,8 @@ Delete Task: Deletes a task from the list and from JSON Server.
 Mark as Completed: Toggle task completion status.
 
 Responsive UI: The app is responsive and works well on mobile devices.
-![Screenshot 2024-11-23 205035](https://github.com/user-attachments/assets/cfbae00b-5056-4a61-8dcc-62c8fd1ef44f)
 
 
 
+
+![Screenshot 2024-11-24 142452](https://github.com/user-attachments/assets/67c588d6-24b1-487a-8448-86c0cf4f25af)
