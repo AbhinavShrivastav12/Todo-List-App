@@ -274,3 +274,7 @@ Mark as Completed: Toggle task completion status.
 
 Responsive UI: The app is responsive and works well on mobile devices.
 
+
+
+
+![Screenshot 2024-11-24 142452](https://github.com/user-attachments/assets/67c588d6-24b1-487a-8448-86c0cf4f25af)
